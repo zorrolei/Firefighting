@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "EB13F049-C40D-4727-A339-62CF54574298",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A99E620C-8696-4330-9DC1-13CC6FA23DAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDF6D317-DA07-4290-8520-14A3B3133D6A",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E46DF4A6-E541-438C-861C-79B737EF077E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DA656C6-A585-4DA4-894F-EBD0A5D88036"
+    },
+    {
+      "class": "text",
+      "id": "1F2E5FB6-9771-4B09-A619-96E1028841A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "769D4F8C-8EB0-4537-AF47-1CC8E51D3467"
+    }
+  ],
+  "name": "app bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "409A802A-9CFF-4461-9756-048778FBF2E0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
