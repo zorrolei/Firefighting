@@ -32,8 +32,8 @@
       "id": "64F22FEC-88B6-4BB4-8DFE-0CA1D5FFFC05"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "bg_slider",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
