@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Semibold",
-              "size": 12
+              "size": 14
             }
           },
-          "kerning": 0.144,
+          "kerning": 0.168,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "夏季致灾因素多 严防重特大火灾"
+    "string": "巴彦淖尔市政府召开全市消防工作会议"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "ECC3A8FA-03A5-4FBB-ACE4-CAFAE23005A8",
@@ -49,19 +49,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 175,
+    "height": 20,
+    "width": 241,
     "x": 82,
-    "y": 10
+    "y": 13
   },
-  "glyphBounds": "{{0, 3}, {174, 12}}",
+  "glyphBounds": "{{1, 3}, {240, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "夏季致灾因素多 严防重特大火灾",
+  "name": "巴彦淖尔市政府召开全市消防工作会议",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -86,10 +86,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Semibold",
-            "size": 12
+            "size": 14
           }
         },
-        "kerning": 0.144,
+        "kerning": 0.168,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

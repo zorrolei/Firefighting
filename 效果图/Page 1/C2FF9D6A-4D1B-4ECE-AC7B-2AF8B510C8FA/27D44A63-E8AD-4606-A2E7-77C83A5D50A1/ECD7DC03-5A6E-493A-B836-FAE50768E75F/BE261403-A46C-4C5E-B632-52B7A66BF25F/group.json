@@ -16,7 +16,7 @@
     "height": 60,
     "width": 60,
     "x": 10,
-    "y": 10
+    "y": 15
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
     },
     {
       "class": "bitmap",
-      "id": "F896EE3A-D2D4-46AA-8814-2B401C6342ED"
+      "id": "346F700E-EC81-46F7-8B4D-7C62154D3909"
     }
   ],
   "name": "Bitmap",

@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 32,
+        "length": 39,
         "location": 0
       }
     ],
-    "string": "近五年来，我国夏季火灾总量虽然占比不大，但重特大火灾多发高发。。"
+    "string": "5月11日至12日，由重庆总队陈禹副参谋长率领的2018年全国消防部队冬训工作"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3C726273-06D9-48F5-BAF6-65D82AD93F67",
@@ -52,16 +52,16 @@
     "height": 34,
     "width": 262,
     "x": 82,
-    "y": 31
+    "y": 36
   },
-  "glyphBounds": "{{0, 3}, {255, 29}}",
+  "glyphBounds": "{{0, 3}, {260, 29}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "近五年来，我国夏季火灾总量虽然占比不大，",
+  "name": "5月11日至12日，由重庆总队陈禹副参谋",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

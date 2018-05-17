@@ -28,8 +28,8 @@
     ]
   },
   "meta": {
-    "appVersion": "50",
-    "build": 54983,
+    "appVersion": "50.2",
+    "build": 55047,
     "version": 103
   },
   "pages": [
@@ -37,6 +37,9 @@
     "Symbols"
   ],
   "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"677059814\",\"layerId\":\"ECA37D17-D57A-4B8A-8BB5-09464DAC00FA\"}]"
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

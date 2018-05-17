@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "height": 90,
     "width": 360,
     "x": 0,
-    "y": 81
+    "y": 91
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -40,6 +40,10 @@
     {
       "class": "group",
       "id": "4F240EA0-C890-4B38-9132-C3352B46E175"
+    },
+    {
+      "class": "group",
+      "id": "9ACD29F0-BD13-40C4-91FA-2BF2C70ECCDC"
     }
   ],
   "name": "list_item copy",

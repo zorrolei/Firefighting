@@ -16,14 +16,14 @@
     "height": 60,
     "width": 60,
     "x": 10,
-    "y": 10
+    "y": 16
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,7 +31,7 @@
     },
     {
       "class": "bitmap",
-      "id": "2106D4B4-4F3A-4377-90A0-A00DAF124421"
+      "id": "A3231C2F-93EA-43D4-B102-C0E586A3DCCA"
     }
   ],
   "name": "Bitmap",

@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 32,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "近五年来，我国夏季火灾总量虽然占比不大，但重特大火灾多发高发。。"
+    "string": "2月27日下午，巴彦淖尔市政府召开2018年全市消防工作会议"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6AA3FDB0-93AF-432E-B206-B2687D4F48A5",
@@ -52,7 +52,7 @@
     "height": 34,
     "width": 262,
     "x": 82,
-    "y": 31
+    "y": 36
   },
   "glyphBounds": "{{0, 3}, {255, 29}}",
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "近五年来，我国夏季火灾总量虽然占比不大，",
+  "name": "2月27日下午，巴彦淖尔市政府召开201",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

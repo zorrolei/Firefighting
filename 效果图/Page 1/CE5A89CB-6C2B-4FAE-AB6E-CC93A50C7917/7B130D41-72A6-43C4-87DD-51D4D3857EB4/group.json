@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7B130D41-72A6-43C4-87DD-51D4D3857EB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 20,
+    "x": 186,
+    "y": 368
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C210E58-7F42-4106-A2D8-5BA756278FB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39311238-A9C8-497E-9643-1BCB9A8FD8CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0065C595-CC82-4F5A-BF89-D69E85D91FB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2531C365-D317-4E86-B7B1-65E582F6AA81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "354C2284-16C0-466F-962D-D11B676DEA61"
+    }
+  ],
+  "name": "消防栓 copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
