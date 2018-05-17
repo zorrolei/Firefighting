@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "d0f83940-597e-11e8-ac1c-4f360c99bad4",
+  "_class": "group",
+  "do_objectID": "BE261403-A46C-4C5E-B632-52B7A66BF25F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 60,
+    "width": 60,
+    "x": 10,
+    "y": 10
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,15 +26,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "B0A99304-39C8-41AC-8514-1461BD8FCB20"
+      "class": "shapeGroup",
+      "id": "8B3DF93F-E4BD-47C6-A3C5-306E49408037"
     },
     {
-      "class": "artboard",
-      "id": "C2FF9D6A-4D1B-4ECE-AC7B-2AF8B510C8FA"
+      "class": "bitmap",
+      "id": "F896EE3A-D2D4-46AA-8814-2B401C6342ED"
     }
   ],
-  "name": "Page 1",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,11 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

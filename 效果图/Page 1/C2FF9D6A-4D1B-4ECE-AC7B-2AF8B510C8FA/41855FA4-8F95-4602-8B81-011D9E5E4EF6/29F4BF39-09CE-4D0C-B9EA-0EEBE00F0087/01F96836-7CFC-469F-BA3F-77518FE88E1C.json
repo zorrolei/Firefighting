@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "2739D7DA-9CC2-4D07-8A41-917D23FE2BF6",
+  "_class": "symbolInstance",
+  "do_objectID": "01F96836-7CFC-469F-BA3F-77518FE88E1C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,36 +10,40 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 160,
-    "width": 359,
-    "x": -18,
-    "y": 0
+    "height": 24,
+    "width": 24,
+    "x": 323,
+    "y": 16
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/c157d2b6c867876f93f4f46a687ee204a3a1a391.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "img_slider_01",
+  "name": "search",
   "nameIsFixed": true,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.54
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "7E16C871-2789-4DBD-8A57-559AAAE1421D",
+  "verticalSpacing": 0
 }

@@ -1,6 +1,7 @@
 {
-  "_class": "page",
-  "do_objectID": "d0f83940-597e-11e8-ac1c-4f360c99bad4",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C895166F-DAD9-48F4-812D-D66024F259B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,38 +11,27 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 300,
+    "constrainProportions": true,
+    "height": 160,
     "width": 300,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/0dd268d9d84aa3f7ab1f3a886bdfadfb78413a54.png",
+    "_ref_class": "MSImageData"
   },
-  "includeInCloudUpload": true,
+  "intendedDPI": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "B0A99304-39C8-41AC-8514-1461BD8FCB20"
-    },
-    {
-      "class": "artboard",
-      "id": "C2FF9D6A-4D1B-4ECE-AC7B-2AF8B510C8FA"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,11 +42,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

@@ -7,7 +7,7 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
-  "do_objectID": "B0A99304-39C8-41AC-8514-1461BD8FCB20",
+  "do_objectID": "C2FF9D6A-4D1B-4ECE-AC7B-2AF8B510C8FA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,9 +29,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 821,
+    "height": 640,
     "width": 360,
-    "x": 617,
+    "x": 1077,
     "y": 510
   },
   "hasBackgroundColor": true,
@@ -53,30 +53,22 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "C6FE98DA-AF75-4368-8529-3500C2CA0ACC"
+      "id": "05D26483-B00C-4AC5-BE1E-5E655771A2CF"
     },
     {
       "class": "group",
-      "id": "68C4CDCC-B907-4F92-A4BA-C53F1DC82F93"
+      "id": "A56BE265-14D9-4406-A025-64C61BCAFCB7"
     },
     {
       "class": "group",
-      "id": "E52A0BE5-A8F5-4AC1-9BEC-3E62CC128A14"
+      "id": "27D44A63-E8AD-4606-A2E7-77C83A5D50A1"
     },
     {
       "class": "group",
-      "id": "DD89D9C8-6FFA-4F67-9BB0-05A3F7C5E67B"
-    },
-    {
-      "class": "group",
-      "id": "48309424-026A-479D-B1AE-7ADFE11A2B2B"
-    },
-    {
-      "class": "group",
-      "id": "BDC9CEAF-AC0A-4908-95DE-1B447BB1492E"
+      "id": "41855FA4-8F95-4602-8B81-011D9E5E4EF6"
     }
   ],
-  "name": "首页",
+  "name": "党旗红",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
