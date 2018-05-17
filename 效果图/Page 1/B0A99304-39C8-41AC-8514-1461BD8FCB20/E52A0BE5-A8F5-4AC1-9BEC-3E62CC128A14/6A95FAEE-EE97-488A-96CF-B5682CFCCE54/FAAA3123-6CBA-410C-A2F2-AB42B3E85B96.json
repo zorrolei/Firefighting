@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "夏季致灾因素多 严防重特大火灾"
+    "string": "北京垂杨柳大火14天后，居民这样度过"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FAAA3123-6CBA-410C-A2F2-AB42B3E85B96",
@@ -50,18 +50,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 175,
+    "width": 207,
     "x": 82,
     "y": 10
   },
-  "glyphBounds": "{{0, 3}, {174, 12}}",
+  "glyphBounds": "{{0, 3}, {207, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "夏季致灾因素多 严防重特大火灾",
+  "name": "北京垂杨柳大火14天后，居民这样度过",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 32,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "近五年来，我国夏季火灾总量虽然占比不大，但重特大火灾多发高发。。"
+    "string": "如果再给23号楼一次机会，它会和周边，已经结束危房修缮工程的老楼一样重焕青春。\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FA98CC88-3360-4A71-9033-E5360BBA76E6",
@@ -49,19 +49,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
+    "height": 39,
     "width": 262,
     "x": 82,
     "y": 31
   },
-  "glyphBounds": "{{0, 3}, {255, 29}}",
+  "glyphBounds": "{{0, 3}, {257, 48}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "近五年来，我国夏季火灾总量虽然占比不大，",
+  "name": "如果再给23号楼一次机会，它会和周边，已",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -100,5 +100,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

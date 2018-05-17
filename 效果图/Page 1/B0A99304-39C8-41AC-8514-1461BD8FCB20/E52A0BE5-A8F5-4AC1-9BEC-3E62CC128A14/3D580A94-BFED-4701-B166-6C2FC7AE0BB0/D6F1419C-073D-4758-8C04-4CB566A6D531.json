@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "夏季致灾因素多 严防重特大火灾"
+    "string": "忠诚履行职责使命 确保消防形势稳定"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D6F1419C-073D-4758-8C04-4CB566A6D531",
@@ -50,18 +50,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 175,
+    "width": 199,
     "x": 82,
     "y": 10
   },
-  "glyphBounds": "{{0, 3}, {174, 12}}",
+  "glyphBounds": "{{0, 3}, {198, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "夏季致灾因素多 严防重特大火灾",
+  "name": "忠诚履行职责使命 确保消防形势稳定",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
