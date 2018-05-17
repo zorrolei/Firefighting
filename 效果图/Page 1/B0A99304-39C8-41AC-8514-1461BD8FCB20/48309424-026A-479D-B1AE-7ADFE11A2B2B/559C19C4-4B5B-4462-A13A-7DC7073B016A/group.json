@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "C6FE98DA-AF75-4368-8529-3500C2CA0ACC",
+  "_class": "group",
+  "do_objectID": "559C19C4-4B5B-4462-A13A-7DC7073B016A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,38 +13,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 49,
-    "width": 360,
+    "height": 160,
+    "width": 300,
     "x": 0,
-    "y": 772
+    "y": 10
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "tabs_bar",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "28C59658-C713-414F-85DF-9F9A5CFEDC89",
-      "overrideName": "D8B06E26-61DF-43A8-A5A9-157133A9F43F_symbolID",
-      "value": "0F3BE28A-A488-4053-B4B8-A27CE5D03893"
+      "class": "shapeGroup",
+      "id": "9DF742BF-BEB9-47FE-9350-5EDBF1AF3125"
+    },
+    {
+      "class": "bitmap",
+      "id": "D19A6126-2860-4ACC-B51A-AF1E046D5C28"
     }
   ],
+  "name": "img_slider_03",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "E7DDEB20-1D87-47A9-B3FF-70117243A006",
-  "verticalSpacing": 0
+  }
 }
