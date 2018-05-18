@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "D4DA27F3-B4EB-47B4-B493-84C3DB712558",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1997,
+    "y": 2273
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "087298BE-83F0-46C1-A772-23F3B37A69AA"
+    },
+    {
+      "class": "group",
+      "id": "D73E4165-EDDA-4A6A-8990-239E742DDD19"
+    },
+    {
+      "class": "group",
+      "id": "69AF3BA6-137F-40BD-A6DF-9BC054550247"
+    },
+    {
+      "class": "group",
+      "id": "AEF92A7F-68E2-4210-8E66-6048CD5C3CFE"
+    },
+    {
+      "class": "text",
+      "id": "0ED727EB-3D03-487A-94E8-9318EBF519BB"
+    },
+    {
+      "class": "text",
+      "id": "8934C40D-5EDB-4544-A29F-C2C2E554DB50"
+    },
+    {
+      "class": "group",
+      "id": "8888B6B9-3A02-47B9-935D-9A9DF0FE6304"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1639F3FE-7CB3-4D96-9B4F-E304C8D1A133"
+    },
+    {
+      "class": "group",
+      "id": "880CBD7C-9358-46DF-B026-D7FD6FA1842B"
+    }
+  ],
+  "name": "学无尽-开妈闯关-答题错误",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

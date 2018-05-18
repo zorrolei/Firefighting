@@ -52,12 +52,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "7BDA136E-E2A2-4FC9-B3BC-A418E4B40F4D"
+    },
+    {
       "class": "symbolInstance",
       "id": "374F8FA4-83A5-412A-A6FD-95E5C69A8A5E"
     },
     {
       "class": "group",
+      "id": "A1E73786-FEE4-4533-93E9-D88C05B815B6"
+    },
+    {
+      "class": "group",
       "id": "097D140A-AB93-4B92-A5D0-4666750856C8"
+    },
+    {
+      "class": "group",
+      "id": "322F61EA-2759-4B82-904B-9BFF1D5995C2"
     }
   ],
   "name": "学无尽",
@@ -82,7 +94,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

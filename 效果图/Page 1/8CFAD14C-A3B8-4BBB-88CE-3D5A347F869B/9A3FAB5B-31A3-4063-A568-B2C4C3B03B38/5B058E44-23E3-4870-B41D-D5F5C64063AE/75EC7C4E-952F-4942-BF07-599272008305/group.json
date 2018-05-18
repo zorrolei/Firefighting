@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "75EC7C4E-952F-4942-BF07-599272008305",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 104,
+    "width": 111,
+    "x": 90,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6348A1EB-012F-42D6-A2A8-D9EE8F4EF495"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83EF3526-E9D6-4137-9134-0A55BE353FDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "239EE57C-C6CB-4D4A-8AA0-1C48347E393E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDEF1969-8884-4981-9119-B92FA5A704BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "026CB9F0-A131-45FD-ADBA-D17CBC35CD0A"
+    }
+  ],
+  "name": "树叶",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
