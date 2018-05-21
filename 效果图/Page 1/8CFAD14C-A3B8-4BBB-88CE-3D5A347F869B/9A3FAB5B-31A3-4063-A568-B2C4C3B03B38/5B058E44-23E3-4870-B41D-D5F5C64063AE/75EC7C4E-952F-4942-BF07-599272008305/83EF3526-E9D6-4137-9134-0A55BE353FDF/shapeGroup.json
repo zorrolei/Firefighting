@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5334E5A2-8BFE-4E63-8E1E-C864C5916979",
-    "height": 10,
-    "width": 10,
-    "x": 78,
-    "y": 20
+    "height": 12.78429370068707,
+    "width": 12.78429370068707,
+    "x": 97.51327895356417,
+    "y": 26.6788490040467
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",

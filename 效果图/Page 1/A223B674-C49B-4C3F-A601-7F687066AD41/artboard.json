@@ -101,12 +101,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-<<<<<<< HEAD
-      "highestQuality": -1
-=======
-      "highestQuality": -1,
-      "included": 1
->>>>>>> 40d40a82894d6831e1fca85f0f40cc27582f5bb9
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

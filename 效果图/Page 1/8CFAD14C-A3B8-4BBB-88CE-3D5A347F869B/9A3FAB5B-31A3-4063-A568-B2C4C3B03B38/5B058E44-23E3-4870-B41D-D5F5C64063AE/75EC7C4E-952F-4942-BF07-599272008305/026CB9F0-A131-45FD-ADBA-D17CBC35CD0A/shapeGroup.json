@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 64,
-    "x": 12,
-    "y": 15
+    "height": 63.15393116742546,
+    "width": 79.86125523012551,
+    "x": 15.06920502092044,
+    "y": 20.05468807943635
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",

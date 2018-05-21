@@ -14,10 +14,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "pdf",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -35,7 +35,7 @@
     "y": 510
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -98,11 +98,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
-      "included": 1,
-      "linkedLayers": [
-        "E09582A4-153E-4599-9DCD-78934F8DBB64"
-      ]
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

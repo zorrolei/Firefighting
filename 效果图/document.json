@@ -28,14 +28,13 @@
     ]
   },
   "meta": {
-    "appVersion": "50.2",
-    "build": 55047,
+    "appVersion": "50",
+    "build": 54983,
     "version": 103
   },
   "pages": [
     "Page 1",
-    "Symbols",
-    "logo"
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.getty0": {

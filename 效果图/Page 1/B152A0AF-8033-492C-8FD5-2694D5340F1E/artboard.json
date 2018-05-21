@@ -14,10 +14,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "pdf",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 640,
+    "height": 695,
     "width": 360,
     "x": 2457,
     "y": 510
@@ -86,8 +86,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
-      "included": 1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

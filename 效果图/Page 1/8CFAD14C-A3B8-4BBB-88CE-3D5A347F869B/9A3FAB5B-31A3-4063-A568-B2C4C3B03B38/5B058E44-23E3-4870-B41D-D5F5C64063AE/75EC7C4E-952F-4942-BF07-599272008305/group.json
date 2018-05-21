@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 82,
-    "width": 88,
-    "x": 105,
-    "y": 34
+    "height": 104,
+    "width": 111,
+    "x": 90,
+    "y": 28
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
