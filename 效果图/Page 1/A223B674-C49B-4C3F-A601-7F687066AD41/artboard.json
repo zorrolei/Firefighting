@@ -26,7 +26,7 @@
     "y": 3056
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -101,7 +101,12 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
+<<<<<<< HEAD
       "highestQuality": -1
+=======
+      "highestQuality": -1,
+      "included": 1
+>>>>>>> 40d40a82894d6831e1fca85f0f40cc27582f5bb9
     }
   },
   "verticalRulerData": {
