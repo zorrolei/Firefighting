@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "83868CF6-EA39-4630-8C15-D17149D4BC1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AADDE196-7609-4AB1-809E-E97A1F8282F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "824E8D97-5601-4FB6-B00E-38C016486EF8",
+    "height": 5.332252836304707,
+    "width": 9.334914182475131,
+    "x": 401.4013098464318,
+    "y": 57.98824959481362
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D2CDC03A-3DC5-4662-A7FE-0CEFB4BD61A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "3AEFBA57-8113-4B17-9420-4AA33D4159DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "80415CD7-9018-467C-949D-AFBCA90D1BDF"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED6DF8EB-9C35-45FB-8EBE-CC99B45EC814"
+    },
+    {
+      "class": "shapePath",
+      "id": "30EB3A9A-EFB7-4232-BB17-9C0E7E1A13F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "D25BD7CE-3F4F-40FC-859E-9D726B4919DE"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE2A0E5D-21A9-4816-8CE9-EA3FFB4ED387"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8905BB8-BEFE-46F9-81C3-FB3B1DFDD2FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "769DCB23-D937-4D38-9046-403E546456D6"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "820B02AE-35D3-4555-B604-72BD3439EB4A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "C604574D-949D-4C70-9B16-C9482D5FBE72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

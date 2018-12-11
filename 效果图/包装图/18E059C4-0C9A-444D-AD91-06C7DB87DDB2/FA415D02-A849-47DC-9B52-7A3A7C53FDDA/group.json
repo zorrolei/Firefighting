@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA415D02-A849-47DC-9B52-7A3A7C53FDDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8390E4A9-F625-435C-AF42-EA2A7B87D716",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B8D047E-7FF4-486C-90B7-08423E01BB69",
+    "height": 364.1666666666667,
+    "width": 548.75,
+    "x": 283.75,
+    "y": 329.1666666666667
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1967F891-C3AD-45C9-94BC-AC5CEEB07002"
+    },
+    {
+      "class": "group",
+      "id": "21785461-3F52-4F2F-B7F1-B8C4A68BD011"
+    }
+  ],
+  "name": "iPhone X 02 01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0618819F-3CEE-47BC-BAF6-7E5B1B9EC13B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "264D1CC1-1788-4800-8D49-091500E86EAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

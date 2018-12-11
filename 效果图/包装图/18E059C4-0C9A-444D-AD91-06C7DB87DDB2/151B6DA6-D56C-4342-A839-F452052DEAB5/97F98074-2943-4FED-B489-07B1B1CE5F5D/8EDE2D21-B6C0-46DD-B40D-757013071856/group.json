@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EDE2D21-B6C0-46DD-B40D-757013071856",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B40B4279-E9E0-42A3-A4FF-8F7575200440",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "297617C3-DD42-4E12-B5ED-A81213E8D98A",
+    "height": 20.67612942612944,
+    "width": 18.00273390036457,
+    "x": 477.4058323207776,
+    "y": 270.7905982905983
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "271EF95C-6279-47B6-AFD7-FA7CC2F364F8"
+    },
+    {
+      "class": "group",
+      "id": "08C6EE6A-53EA-4B66-A8AD-058EBCCFCB93"
+    }
+  ],
+  "name": "Lightning Connector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6E75F1CB-242D-4B47-9CCE-F76C79A581C5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "46A3DC43-BE6E-4B73-AE14-AB3724314123",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

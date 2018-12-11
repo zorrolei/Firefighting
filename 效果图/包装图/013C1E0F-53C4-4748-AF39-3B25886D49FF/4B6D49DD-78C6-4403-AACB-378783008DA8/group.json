@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B6D49DD-78C6-4403-AACB-378783008DA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82F7B013-F9FC-4556-AE38-4D5142FB5EB4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D5BF578-45E1-4C57-B729-5F11C2EAB58C",
+    "height": 781,
+    "width": 302,
+    "x": 864,
+    "y": 177
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1C35C61E-FC5B-4C65-ABFC-3B6B67D6CA3A"
+    },
+    {
+      "class": "group",
+      "id": "B06384C8-BF00-4706-BE44-B9CA0AC3C5EF"
+    },
+    {
+      "class": "group",
+      "id": "3BE9A52E-52C5-4CC2-8AE4-502B71653D0F"
+    }
+  ],
+  "name": "iPhone X 04/Right/Flat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6DE7066C-E0D2-4142-956E-EE7CCBA7448F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E357A022-2C03-482C-8405-629A18B3D778",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

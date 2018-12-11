@@ -34,6 +34,8 @@
     "string": "消防"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "AC67E98F-355E-4250-97CA-2C8A98E34BD1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 12
   },
   "glyphBounds": "{{0, 3}, {28, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "F4DD60F1-EF98-48F6-ADE1-C7660F564D7F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "63105673-CA08-414D-B73E-09DF5224BE19",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "F4DD60F1-EF98-48F6-ADE1-C7660F564D7F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "EBD9E2C7-2006-4DF3-AA83-0C22C377C883",
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

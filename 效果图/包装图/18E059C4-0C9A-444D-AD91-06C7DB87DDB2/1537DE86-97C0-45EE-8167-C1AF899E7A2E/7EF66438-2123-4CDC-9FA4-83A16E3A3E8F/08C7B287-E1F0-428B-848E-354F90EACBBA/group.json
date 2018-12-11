@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "08C7B287-E1F0-428B-848E-354F90EACBBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E966A32-E58A-403F-BC6D-4A651EBB887E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "176BA22A-6A9A-4C66-8C92-DFA20B83A9A0",
+    "height": 383.9222042139384,
+    "width": 482.0816395663956,
+    "x": 3.333897922312556,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DC144099-A2E6-41EA-B2FE-3BFE2260F9FE"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F90BBBE-8B6B-480F-982F-898A49B54B6D"
+    }
+  ],
+  "name": "Edge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "893B0B21-299D-438E-847E-A71E520E9EC0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "925D1415-345C-4B43-A4B4-45495929E424",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

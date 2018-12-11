@@ -28,12 +28,13 @@
     ]
   },
   "meta": {
-    "appVersion": "50",
-    "build": 54983,
-    "version": 103
+    "appVersion": "52.5",
+    "build": 67469,
+    "version": 112
   },
   "pages": [
     "Page 1",
+    "包装图",
     "Symbols"
   ],
   "userInfo": {

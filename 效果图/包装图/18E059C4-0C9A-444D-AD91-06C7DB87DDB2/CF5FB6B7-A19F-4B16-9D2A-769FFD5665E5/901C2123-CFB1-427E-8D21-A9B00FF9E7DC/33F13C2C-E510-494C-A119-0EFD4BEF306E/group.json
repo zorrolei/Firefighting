@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "33F13C2C-E510-494C-A119-0EFD4BEF306E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "106EDBD8-C830-43BF-8D73-FED6239AAE10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71877647-801B-486E-9450-B42288E5F3F6",
+    "height": 24.66166936790927,
+    "width": 44.67423215898826,
+    "x": 61.34372177055105,
+    "y": 339.9311183144246
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5E7A7D6C-0EDC-4A2C-A701-7EDDFC5D6DFF"
+    },
+    {
+      "class": "shapePath",
+      "id": "B48AB39A-74EB-4D6F-85F4-10142B44F345"
+    },
+    {
+      "class": "shapePath",
+      "id": "449787E0-52AC-48A2-980A-3D924E8F0E47"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7CE0081-9B9B-474C-BF11-21EED6DD1F18"
+    }
+  ],
+  "name": "Screws  ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "115A2479-B680-45E4-85DE-7A3CC6EC86AB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3BEC5691-EBEC-42D2-A5AC-D75FA30BB167",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

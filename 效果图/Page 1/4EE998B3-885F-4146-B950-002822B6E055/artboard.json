@@ -7,6 +7,8 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "4EE998B3-885F-4146-B950-002822B6E055",
   "exportOptions": {
     "_class": "exportOptions",
@@ -35,7 +37,8 @@
     "y": 1490
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +47,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -72,7 +76,7 @@
       "id": "1D513F06-EFD9-4EAC-A7F4-0606D56E9268"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "618BB18C-E834-4222-AF27-175D20EB6FC8"
     },
     {
@@ -96,13 +100,19 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": 1,
+      "included": 1,
+      "linkedLayers": [
+        "76ADD574-D301-4BD7-A959-38051534C57F",
+        "5ECB7E03-615E-4233-B524-24A9B67E0170"
+      ]
     }
   },
   "verticalRulerData": {

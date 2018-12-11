@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "297247C1-3653-4CC4-8D14-3E50484C4427",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72FE2408-7FD9-421C-9761-3E9CD29CD6A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A364379D-8A29-4B32-95AD-BE1B91801A80",
+    "height": 39.99189627228527,
+    "width": 36.67287714543814,
+    "x": 329.3891147244806,
+    "y": 226.6207455429497
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2C9C92E5-CA61-4186-B9EC-A8656BB5174A"
+    },
+    {
+      "class": "group",
+      "id": "00F1599C-8D2B-470C-A460-2C2F2D596216"
+    }
+  ],
+  "name": "Sim Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6E5A11E1-D9ED-477D-976A-8AA6144FF488",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FE49F064-F23F-435F-99B9-DCD5CA4EA1CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

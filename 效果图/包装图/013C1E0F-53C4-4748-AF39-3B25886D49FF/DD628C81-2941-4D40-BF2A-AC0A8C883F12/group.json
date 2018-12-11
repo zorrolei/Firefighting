@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD628C81-2941-4D40-BF2A-AC0A8C883F12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 98,
+    "width": 720,
+    "x": 101,
+    "y": 2005
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "05D66460-A686-4ECA-B1FD-D14BCBC69025"
+    },
+    {
+      "class": "group",
+      "id": "023D6294-79D3-426E-8E1D-D646C4FF5B02"
+    },
+    {
+      "class": "group",
+      "id": "0C77FCEE-9CEF-4FC7-8C52-7F178D873F30"
+    },
+    {
+      "class": "group",
+      "id": "EBADACFC-8398-46F8-BBEF-43AF4E270C71"
+    },
+    {
+      "class": "group",
+      "id": "D7F37A7C-F750-48FE-9C80-FE5FBB89D127"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BE67FD7-D994-4DC6-B94C-E35BEE438586"
+    }
+  ],
+  "name": "tabs_bar copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

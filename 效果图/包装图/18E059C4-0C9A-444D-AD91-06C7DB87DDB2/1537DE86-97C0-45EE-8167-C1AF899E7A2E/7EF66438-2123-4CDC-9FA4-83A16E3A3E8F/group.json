@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EF66438-2123-4CDC-9FA4-83A16E3A3E8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B79CDE5-0D47-4643-925D-DFEEC33A69EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A2979BA-6F2D-48E3-9372-1E7301D63925",
+    "height": 397.9193679092383,
+    "width": 492.0833333333334,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3CA95D40-9D8C-4AB9-A1D6-B2724E4CF024"
+    },
+    {
+      "class": "group",
+      "id": "0F03D2A6-8843-4586-83D5-5E1B4BD81E2D"
+    },
+    {
+      "class": "group",
+      "id": "B6B0F404-06EE-4206-8C7B-D8818C0B9A34"
+    },
+    {
+      "class": "group",
+      "id": "08C7B287-E1F0-428B-848E-354F90EACBBA"
+    },
+    {
+      "class": "group",
+      "id": "1F495032-782E-456F-8C2D-AC71B390C464"
+    },
+    {
+      "class": "group",
+      "id": "056841DF-2752-4C5A-A2A9-6590C5E79944"
+    },
+    {
+      "class": "group",
+      "id": "2C60CF54-4D6B-4242-9FFE-E2CBD8847AAE"
+    },
+    {
+      "class": "group",
+      "id": "28C48BAA-8A0C-40BA-9B0D-EFA0832B211A"
+    },
+    {
+      "class": "group",
+      "id": "68DC4A4C-4C0C-44A0-93AC-323598F74F73"
+    },
+    {
+      "class": "group",
+      "id": "297247C1-3653-4CC4-8D14-3E50484C4427"
+    },
+    {
+      "class": "group",
+      "id": "6AB6E768-455D-4853-A9B1-21BF131B679B"
+    },
+    {
+      "class": "group",
+      "id": "83868CF6-EA39-4630-8C15-D17149D4BC1C"
+    },
+    {
+      "class": "group",
+      "id": "F5658A6C-4EE5-4EBD-B8D4-F324DACF60F1"
+    }
+  ],
+  "name": "Body",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "27AF9E5E-B9FB-40CE-93F1-3A9ABA48A6B3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F92CAFE8-735B-4C7E-8628-B10905735D42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

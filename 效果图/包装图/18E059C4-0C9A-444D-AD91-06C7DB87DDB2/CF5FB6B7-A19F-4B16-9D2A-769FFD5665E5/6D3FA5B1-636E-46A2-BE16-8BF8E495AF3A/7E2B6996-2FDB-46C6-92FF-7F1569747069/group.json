@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E2B6996-2FDB-46C6-92FF-7F1569747069",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49D0A343-7D73-4B54-B1C5-6540D6303061",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "902A25E9-DD89-41E5-9BDF-D87EF8750A4C",
+    "height": 397.9193679092383,
+    "width": 492.0833333333334,
+    "x": 0,
+    "y": 11.99756888168558
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7C57F9B0-DD9C-4429-82B8-1790514858D4"
+    }
+  ],
+  "name": "Shadow2 ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1EB1E1C0-5648-47A2-A49E-8792C33DCD5A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E73902CA-FAE6-4D5E-97C1-50C08A58566C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

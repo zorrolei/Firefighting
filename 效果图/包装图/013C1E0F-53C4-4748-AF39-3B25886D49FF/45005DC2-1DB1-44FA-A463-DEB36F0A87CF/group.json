@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "45005DC2-1DB1-44FA-A463-DEB36F0A87CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AF5E882-5084-44E4-88AA-FF478417B4A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C3B73AE6-065C-4B49-ACDF-7392D9DEC970",
+    "height": 142,
+    "width": 152,
+    "x": 67,
+    "y": 93
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DCB6B932-A02D-46A5-B078-5C9738F951B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8CB408C-7CA0-4EED-ADFF-2B51D1281CDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B280F5A9-DDC0-4A07-89C6-E246A474FE75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFDB4551-DD82-43AC-A639-68A3B262031F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B94023F-C4A5-4055-850B-55391050B690"
+    }
+  ],
+  "name": "树叶",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C518D141-13F6-4B98-9DC2-66E005A59786",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

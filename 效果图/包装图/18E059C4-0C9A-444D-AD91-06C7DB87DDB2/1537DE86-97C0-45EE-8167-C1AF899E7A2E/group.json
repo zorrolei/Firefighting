@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1537DE86-97C0-45EE-8167-C1AF899E7A2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27244431-60FC-45C2-9FCC-C093E21AEFF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "756070E4-D3C1-4FAF-837F-F3AA7CC546E0",
+    "height": 411.25,
+    "width": 492.0833333333334,
+    "x": 50.41666666666667,
+    "y": 58.33333333333334
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "68B09DA0-C846-45FD-B37A-A1B88319EEF7"
+    },
+    {
+      "class": "group",
+      "id": "7EF66438-2123-4CDC-9FA4-83A16E3A3E8F"
+    },
+    {
+      "class": "group",
+      "id": "DF4785E5-907E-4A2C-91EA-CAC25EC54E68"
+    }
+  ],
+  "name": "iPhone X 10 01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "50375A76-9767-4D9B-A4FA-D5B960434798",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "AAEDE8F8-4014-40C7-921D-938B237EA8A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
