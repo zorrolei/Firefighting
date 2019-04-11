@@ -190,14 +190,14 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/33d3f2347d7078425010189b943322391ff168c5.png",
+          "_ref": "images/6af51d082df3222bfe91fb931737ff52772edee7.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
-        "patternTileScale": 0.3
+        "patternTileScale": 0.5
       },
       {
         "_class": "fill",
@@ -247,14 +247,14 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/76136f54935cf497a9d794eaa477c9cd82183941.png",
+          "_ref": "images/9537b0f2288dc8b75479df9667b38134602fbb73.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
-        "patternTileScale": 0.1
+        "patternTileScale": 0.5
       }
     ],
     "innerShadows": [

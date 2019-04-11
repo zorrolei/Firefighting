@@ -107,7 +107,7 @@
         "fillType": 0,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/f23654a6fe8eff04fd40474d91433f41a1c56866.png",
+          "_ref": "images/cb2f6d5b0da508635f20494403ebc2f4f26cd7a4.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -159,7 +159,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/5b8397cfa02dfaf8d1b561921b06235484ddbb2f.png",
+          "_ref": "images/595623f5e51a6ba8fff53d667763e3f13e0a1da0.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

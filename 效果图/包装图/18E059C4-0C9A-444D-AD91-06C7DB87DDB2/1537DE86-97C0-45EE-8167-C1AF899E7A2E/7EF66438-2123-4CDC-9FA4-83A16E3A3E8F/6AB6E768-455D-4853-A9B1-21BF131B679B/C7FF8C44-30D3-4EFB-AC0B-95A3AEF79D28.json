@@ -288,7 +288,7 @@
           "blendMode": 0,
           "opacity": 0.02
         },
-        "fillType": 5,
+        "fillType": 4,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -320,10 +320,15 @@
           ],
           "to": "{0.5, 1}"
         },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/55906bfdff404e881c71e444cba0b19c636535db.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
-        "noiseIndex": 1,
+        "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],

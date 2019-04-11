@@ -27,6 +27,9 @@
     "x": 617,
     "y": 3056
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -102,7 +105,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1,
       "linkedLayers": [
         "3D3E63F5-89DB-42E0-8624-80A2740ECE18",
